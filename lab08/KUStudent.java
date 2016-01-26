@@ -1,5 +1,5 @@
 /* File Name: KUStudent.java
- * Author: Stephen Longofono 2776831
+ * Author: L:uke Dercher
  * Assignment:   EECS-168 lab08
  * Description:  Create a class to construct students, with variables for first name, last name
  * 					student id, and dept.  Create methods to set name, id, dept.  Create methods
